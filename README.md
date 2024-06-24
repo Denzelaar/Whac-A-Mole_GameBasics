@@ -1,6 +1,9 @@
 # Whac-A-Mole
 Whac-A-Mole project for the Game Basics assessment.
 
+Game was tested on a Samsung Flip 5
+Build can be downloaded here: https://drive.google.com/file/d/18WUq59tFBVRw2PwycCdLcZO6g-VMc-4W/view?usp=sharing
+
 The Game
 -  You can select the amount of moles you want to play with and the amount of time you want to play the game for.
 -  The game ends when the timer runs out.
@@ -10,3 +13,4 @@ The Game
 
 -  The Game is in portait mode, as I find this a better mode for faster mobile games.
 -  With more time I would like to implement different animals coming out of the holes, like ones with traps or faster/smaller ones.
+
